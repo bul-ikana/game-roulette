@@ -1,0 +1,20 @@
+body {
+	background-image: url("../img/bg.png");
+}
+
+html, body, .container-table {
+    height: 100%;
+}
+.container-table {
+    display: table;
+}
+.vertical-center-row {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+#roulette {
+	width: 100%;
+	max-width: 512px;
+	max-height: 512px;
+}
