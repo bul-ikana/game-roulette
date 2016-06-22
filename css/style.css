@@ -17,4 +17,6 @@ html, body, .container-table {
 	width: 100%;
 	max-width: 512px;
 	max-height: 512px;
+
+	-webkit-transition: -webkit-transform 5s ease-out;
 }
