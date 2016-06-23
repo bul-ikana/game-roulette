@@ -17,6 +17,42 @@ html, body, .container-table {
 	width: 100%;
 	max-width: 512px;
 	max-height: 512px;
+}
 
-	-webkit-transition: -webkit-transform 5s ease-out;
+#spinner {
+    -webkit-transition: -webkit-transform 5s ease-in-out;
+  	position: relative;
+}
+
+.r4-o1 {
+	position: absolute;
+	top: 20%;
+	left: 20%;
+	transform: rotate(-45deg);
+	width: 25%;
+
+}
+
+.r4-o2 {
+	position: absolute;
+	top: 20%;
+	left: 55%;
+	transform: rotate(45deg);
+	width: 25%;
+}
+
+.r4-o3 {
+	position: absolute;
+	top: 55%;
+	left: 20%;
+	transform: rotate(-135deg);
+	width: 25%;
+}
+
+.r4-o4 {
+	position: absolute;
+	top: 55%;
+	left: 55%;
+	transform: rotate(135deg);
+	width: 25%;
 }
