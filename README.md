@@ -8,7 +8,7 @@ Future support is planned for roulettes with 2, 3, 5, 6 and 8 options.
 
 ## Demo
 
-You can check a demo [here]("http://mecabotware.com/pruebas/roulette/"). Click the roulette to make it spin.
+You can check a demo [here](http://mecabotware.com/pruebas/roulette/). Click the roulette to make it spin.
 
 ## Screenshots
 ![](docs/img/s1.png)
